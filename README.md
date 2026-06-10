@@ -1,15 +1,14 @@
-# Quantitative Finance & Data Analysis Portfolio
+Quantitative Finance & Data Analysis Portfolio
+Welcome to my data analysis and financial modeling project portfolio. I'm a 4th-year Physics student at UAM, and here I translate mathematical models into efficient code.
+🚀 Included Projects
+1. Portfolio Optimization and Risk (Markowitz Theory)
 
-Bienvenido a mi portfolio de proyectos de análisis de datos y modelización financiera. Soy estudiante de 4º de Física en la UAM y aquí traduzco modelos matemáticos a código eficiente.
+Description: Implementation of a quantitative model to analyze the impact of the COVID-19 market volatility shock (2019-2020) on tech assets (FAANG).
+Tech Stack: Python, NumPy, Pandas, Seaborn.
+Applied Concepts: Covariance/correlation matrix computation, portfolio variance calculation via matrix algebra, and annualized volatility estimation.
 
-## 🚀 Proyectos Incluidos
+2. Exploratory Analysis of Time Series
 
-### 1. Optimización de Carteras y Riesgo (Teoría de Markowitz)
-* **Descripción:** Implementación de un modelo cuantitativo para analizar el impacto del shock de volatilidad del mercado durante el COVID-19 (2019-2020) en activos tecnológicos (FAANG). 
-* **Stack Tecnológico:** Python, NumPy, Pandas, Seaborn.
-* **Conceptos Aplicados:** Cálculo de matrices de covarianza/correlación, cálculo de varianza de un portfolio mediante álgebra matricial y estimación de la volatilidad anualizada.
-
-### 2. Análisis Exploratorio de Series Temporales
-* **Descripción:** Pipeline automatizado para la extracción, limpieza y visualización de datos bursátiles (Microsoft, Apple) para analizar la distribución empírica de retornos diarios.
-* **Stack Tecnológico:** Python, yfinance, Matplotlib.
-* **Conceptos Aplicados:** Manipulación de dataframes, filtros lógicos de datos nulos y creación de cuadros de mando visuales.
+Description: Automated pipeline for the extraction, cleaning, and visualization of stock market data (Microsoft, Apple) to analyze the empirical distribution of daily returns.
+Tech Stack: Python, yfinance, Matplotlib.
+Applied Concepts: DataFrame manipulation, logical filtering of null data, and visual dashboard creation.
